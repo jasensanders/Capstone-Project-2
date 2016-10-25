@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "682325701136",
+    "project_id": "folio-1d315"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682325701136:android:3cbbb135b1805113",
+        "android_client_info": {
+          "package_name": "com.example.jasensanders.v1.folio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1-LauFchnTqtR5Qc-nTxC0cGxvohYeo0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-85524745-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

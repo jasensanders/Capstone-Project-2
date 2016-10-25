@@ -1,0 +1,107 @@
+<resources>
+    <!--Test Strings-->
+    <string name="hello_world">Hello World!</string>
+
+    <string name="app_name">Folio</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Search your Folio</string>
+
+    <!--Main Activity Strings-->
+    <string name="movie_view">- Movies</string>
+    <string name="wish_list_view">- Wish List</string>
+
+
+    <!--Nav Drawer Strings-->
+    <string name="nav_description">Find and Add to your collection!</string>
+    <string name="search_retailers_nav">Search Retailers</string>
+    <string name="select_movies_owned">All Movies</string>
+    <string name="select_wish_list">Wish List</string>
+    <string name="sort_label">Sort By</string>
+    <string name="sort_date_added_new">Date Added Newest</string>
+    <string name="sort_date_added_old">Date Added Oldest</string>
+    <string name="sort_title_AZ">Title A->Z</string>
+    <string name="sort_title_ZA">Title Z->A</string>
+
+
+    <!-- Barcode Capture Strings-->
+    <string name="barcode_activity_label">Read Barcode</string>
+    <string name="ok">OK</string>
+    <string name="alert_dialoge_label">Barcode Scanner</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This Barcode scanner cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Barcode dependencies cannot be downloaded due to low device storage</string>
+    <string name="barcode_header">Click &quot;Read Barcode&quot; to read a barcode</string>
+    <string name="auto_focus">Auto Focus</string>
+    <string name="use_flash">Use Flash</string>
+    <string name="barcode_success">Barcode read successfully</string>
+    <string name="barcode_failure">No barcode captured</string>
+    <string name="barcode_error">"Error reading barcode: %1$s"</string>
+    <string name="tap_directions">Tap to capture. Pinch/Stretch to zoom</string>
+
+    <!-- Error Message Strings-->
+    <string name="no_internet">No Internet Connection</string>
+    <string name="empty_database_list">No Information Available</string>
+
+    <!-- AddNew Strings-->
+    <string name="title_add_new">Add</string>
+    <string name="scan_button">scan</string>
+    <string name="input_hint">Insert UPC Digits.</string>
+    <string name="store_hint">Purchased at: A big Box store?</string>
+    <string name="notes_hint">Notes go here: \n
+        Last known location: \n Day the dog ate the sleeve: </string>
+    <string name="save_button">save</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="NoMovie">Movies!</string>
+    <string name="wish_list_button">Add to Wish List</string>
+
+    <!--DetailActivity/Fragment Strings-->
+    <string name="title_activity_detail">Details</string>
+    <string name="overview"><b>Overview:</b> \n\n %1$s</string>
+    <string name="rating_runtime">%1$s %2$s</string>
+    <string name="delete_button">Delete</string>
+    <string name="wish_List_label">Added to Wish List</string>
+    <string name="placeholder_share">The Folio APP is Awesome!</string>
+    <string name="detail_movie_desc">%1$s %2$s released %3$s rated %4$s UPC: %5$s</string>
+
+    <!--Search Retailers Activity-->
+    <string name="title_search_retailers">Search Retailers</string>
+    <string name="button_amazon">Search Amazon</string>
+    <string name="button_target">Search Target</string>
+    <string name="button_walmart">Search Walmart</string>
+    <string name="button_ebay">Search eBay</string>
+    <string name="upc_input_label">\u0020 UPC :\u0020\u0020</string>
+    <string name="title_input_label">\u0020 Title :\u0020\u0020</string>
+    <string name="title_hint">Search by Title</string>
+    <string name="action_share">Share Last Search</string>
+
+
+    <!--widget strings-->
+    <string name="title_widget_detail">Folio Details</string>
+
+    <!-- A11y Strings-->
+    <string name="wish_list_checkbox_desc">Check this to add to wish list</string>
+    <string name="barcode_scan_button">scan barcode button</string>
+    <string name="save_button_desc">save movie button</string>
+    <string name="cancel_button_desc">cancel button</string>
+    <string name="detail_view_description">%1$s %2$s released %3$s rated %4$s</string>
+    <string name="poster_description">%1$s Movie art</string>
+    <string name="barcode_description">Barcode %1$s</string>
+    <string name="trailer_play_description">Play Trailer number %1$s</string>
+
+    <!--Preference Key Strings-->
+    <string name="provider_call_key">MAIN_VIEW</string>
+    <string name="sort_order_key">SORT_ORDER</string>
+
+    <!--ACCESS KEYS-->
+    <string name="search_upc_key">xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx</string>
+    <string name="tmdb_key">xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
