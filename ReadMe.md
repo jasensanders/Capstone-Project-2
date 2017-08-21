@@ -2,7 +2,7 @@
 
 ### This is the app that I submitted as my final project for Udacity's Android Development Nanodegree.
 The app is called Folio and it acts as a way to catalog all of your Blu-ray and DVD
-movies using only the upc code on the back.  [A more advanced version is available on the play store](https://play.google.com/store/apps/details?id=com.enrandomlabs.jasensanders.v1.folio, "Folio on the Play Store")
+movies using only the upc code on the back.  [A more advanced version is available on the play store](https://play.google.com/store/apps/details?id=com.enrandomlabs.jasensanders.v1.folio)
 
 ### To build this version you will need 2 keys:
 
